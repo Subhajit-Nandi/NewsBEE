@@ -4,7 +4,7 @@
 
 # LIVE VIDEO ⬇️
 
-In the project directory, you can run:
+https://github.com/Subhajit-Nandi/NewsBEE/assets/96835082/8d91ed9b-e107-484f-8422-eb079221e92f
 
 ### `npm start`
 
